@@ -1,5 +1,5 @@
  
-  # THE README GENERATOR
+  # README GENERATOR
 
   [![github-follow](https://img.shields.io/github/followers/janiandaluz?label=Follow&logoColor=purple&style=social)](https://github.com/janiandaluz)
   [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
@@ -17,7 +17,7 @@
   #
 
   ## Description
-  This repository is about the README Generator, which is a tool that automates the creation of detailed and visually appealing README files for your projects.
+  The README Generator is a streamlined tool designed to simplify the creation of professional, comprehensive README files for your projects. Whether you’re a developer, designer, or project manager, this tool helps you quickly generate well-structured documentation to enhance project clarity and engagement.
 
   ## Project Links
   https://github.com/janiandaluz/the-readme-generator<br>
@@ -27,13 +27,13 @@
   
   
   ## Installation
-  none
+  Clone the repository link. Open your terminal. Download the inquirer package version 8.2.4. Type in the terminal "node index.js". Provide answers to the prompted questions.
 
   ## Usage 
-  none
+  Provide answers to the questions, and watch your README generate.
   
   ## Contributing
-  none
+  Please visit github docs on contributing.
 
   ## Tests
   npm test
@@ -41,7 +41,7 @@
   ## Questions
   Contact the author with any questions!<br>
   Github link: [janiandaluz](https://github.com/janiandaluz)<br>
-  Email: janiandaluz@yahoo.com
+  Email: ianjandaluz@gmail.com
 
   ## License
   This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
