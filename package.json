@@ -1,4 +1,27 @@
 {
+  "name": "the-readme-generator",
+  "version": "1.0.0",
+  "description": "The README Generator is a streamlined tool designed to simplify the creation of 
+professional, comprehensive README files for your projects. Whether you’re a developer, designer, or project manager, this 
+tool helps you quickly generate well-structured documentation to enhance project clarity and engagement.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janiandaluz/the-readme-generator"
+  },
+  "keywords": [
+    "cli",
+    "inquirer"
+  ],
+  "author": "Jan Daluz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janiandaluz/the-readme-generator/issues"
+  },
+  "homepage": "https://github.com/janiandaluz/the-readme-generator#readme",
   "dependencies": {
     "inquirer": "^8.2.4"
   }
