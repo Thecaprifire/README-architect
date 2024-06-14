@@ -1,5 +1,5 @@
  
-  # README GENERATOR
+  # THE README GENERATOR
 
   [![github-follow](https://img.shields.io/github/followers/janiandaluz?label=Follow&logoColor=purple&style=social)](https://github.com/janiandaluz)
   [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
@@ -24,7 +24,7 @@
   
 
   ## Screenshots-Demo
-  
+  <kbd>![screenshot-demo1](./images/Screenshot.png)</kbd>
   
   ## Installation
   Clone the repository link. Open your terminal. Download the inquirer package version 8.2.4. Type in the terminal "node index.js". Provide answers to the prompted questions.
@@ -33,7 +33,7 @@
   Provide answers to the questions, and watch your README generate.
   
   ## Contributing
-  Please visit github docs on contributing.
+  Check github docs for contributing.
 
   ## Tests
   npm test
