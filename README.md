@@ -1,5 +1,5 @@
  
-  # THE README GENERATOR
+  # README GENERATOR
 
   [![github-follow](https://img.shields.io/github/followers/janiandaluz?label=Follow&logoColor=purple&style=social)](https://github.com/janiandaluz)
   [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
@@ -21,7 +21,6 @@
 
   ## Project Links
   https://github.com/janiandaluz/the-readme-generator<br>
-  https://watch.screencastify.com/v/OvGZRzcneoQx0wgjH9pB<br>
   
 
   ## Screenshots-Demo
