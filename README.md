@@ -1,5 +1,5 @@
  
-  # README GENERATOR
+  # THE README GENERATOR
 
   [![github-follow](https://img.shields.io/github/followers/janiandaluz?label=Follow&logoColor=purple&style=social)](https://github.com/janiandaluz)
   [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
@@ -21,6 +21,7 @@
 
   ## Project Links
   https://github.com/janiandaluz/the-readme-generator<br>
+  https://youtu.be/H7LeWg0fCpk?si=VHxrX7ysDJy7GNlr<br>
   
 
   ## Screenshots-Demo
@@ -30,7 +31,7 @@
   Clone the repository link. Open your terminal. Download the inquirer package version 8.2.4. Type in the terminal "node index.js". Provide answers to the prompted questions.
 
   ## Usage 
-  Provide answers to the questions, and watch your README generate.
+  Offers responses to the prompts, and observe your README being created.
   
   ## Contributing
   Check github docs for contributing.
