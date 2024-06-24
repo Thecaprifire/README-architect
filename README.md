@@ -1,7 +1,7 @@
  
   # THE README GENERATOR
 
-  [![github-follow](https://img.shields.io/github/followers/janiandaluz?label=Follow&logoColor=purple&style=social)](https://github.com/janiandaluz)
+  [![github-follow](https://img.shields.io/github/followers/janiandaluz?label=Follow&logoColor=purple&style=social)](https://github.com/Thecaprifire)
   [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
 
   ## Table of Contents
