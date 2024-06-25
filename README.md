@@ -1,7 +1,7 @@
  
   # THE README GENERATOR
 
-  [![github-follow](https://img.shields.io/github/followers/janiandaluz?label=Follow&logoColor=purple&style=social)](https://github.com/Thecaprifire)
+  [![github-follow](https://img.shields.io/github/followers/Thecaprifire?label=Follow&logoColor=purple&style=social)](https://github.com/Thecaprifire)
   [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
 
   ## Table of Contents
@@ -42,13 +42,13 @@
 
   ## Questions
   Contact the author with any questions!<br>
-  Github link: [janiandaluz](https://github.com/janiandaluz)<br>
+  Github link: [janiandaluz](https://github.com/Thecaprifire)<br>
   Email: ianjandaluz@gmail.com
 
   ## License
   This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
 
-  Copyright © 2024 [JAN DALUZ](https://github.com/janiandaluz)
+  Copyright © 2024 [JAN DALUZ](https://github.com/Thecaprifire)
   
   <hr>
   <p align='center'><i>
