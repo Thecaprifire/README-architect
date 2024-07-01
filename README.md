@@ -1,5 +1,5 @@
  
-  # THE README GENERATOR
+  # THE README ARCHITECT
 
   [![github-follow](https://img.shields.io/github/followers/Thecaprifire?label=Follow&logoColor=purple&style=social)](https://github.com/Thecaprifire)
   [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
@@ -17,7 +17,7 @@
   #
 
   ## Description
-  The README Generator is a streamlined tool designed to simplify the creation of professional, comprehensive README files for your projects. Whether you’re a developer, designer, or project manager, this tool helps you quickly generate well-structured documentation to enhance project clarity and engagement.
+  The README Architect is a streamlined tool designed to simplify the creation of professional, comprehensive README files for your projects. Whether you’re a developer, designer, or project manager, this tool helps you quickly generate well-structured documentation to enhance project clarity and engagement.
 
   ## Project Links
   https://github.com/janiandaluz/the-readme-generator<br>
